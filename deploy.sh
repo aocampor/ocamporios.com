@@ -1,2 +1,2 @@
 ng build
-gcloud app deploy 
+gcloud --project ocamporios app deploy 
